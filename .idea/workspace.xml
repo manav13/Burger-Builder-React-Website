@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba269eda-ba63-4ea9-8fe4-4cb48bf140b8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Layout/Layout.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/UI/Modal/Modal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/webpack.config.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/hoc/Auxiliary.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.css" />
+        <option value="$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/Burger.css" />
+        <option value="$PROJECT_DIR$/src/components/Burger/Burger.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.css" />
+        <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/components/Burger/UI/Backdrop/Backdrop.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/UI/Modal/Modal.css" />
+        <option value="$PROJECT_DIR$/src/components/Burger/UI/Modal/Modal.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" />
+        <option value="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.css" />
+        <option value="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" />
+        <option value="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" />
+        <option value="$PROJECT_DIR$/src/components/UI/Button/Button.css" />
+        <option value="$PROJECT_DIR$/src/components/UI/Button/Button.js" />
+        <option value="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" />
+        <option value="$PROJECT_DIR$/src/components/Layout/Layout.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.js" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js" />
+        <option value="$PROJECT_DIR$/src/components/Logo/Logo.css" />
+        <option value="$PROJECT_DIR$/src/components/Logo/Logo.js" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.js" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.js" />
+        <option value="$PROJECT_DIR$/src/components/Layout/Layout.js" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Burger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Burger" type="462c0819:PsiDirectoryNode" />
+              <item name="BuildControls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Burger" type="462c0819:PsiDirectoryNode" />
+              <item name="BurgerIngredient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Burger" type="462c0819:PsiDirectoryNode" />
+              <item name="OrderSummary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Logo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Navigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="NavigationItems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="NavigationItems" type="462c0819:PsiDirectoryNode" />
+              <item name="NavigationItem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="SideDrawer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="SideDrawer" type="462c0819:PsiDirectoryNode" />
+              <item name="DrawerToggle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Navigation" type="462c0819:PsiDirectoryNode" />
+              <item name="Toolbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="Backdrop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="Button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
+              <item name="Modal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="burger-builder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+              <item name="BurgerBuilder" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\College\ReactJS Practice\burger-builder\src\assets\images" />
+      <recent name="D:\College\ReactJS Practice\burger-builder\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba269eda-ba63-4ea9-8fe4-4cb48bf140b8" name="Default Changelist" comment="" />
+      <created>1560328783580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560328783580</updated>
+      <workItem from="1560328785606" duration="2945000" />
+      <workItem from="1560492173310" duration="593000" />
+      <workItem from="1560513601589" duration="2839000" />
+      <workItem from="1560528176508" duration="637000" />
+      <workItem from="1560599962992" duration="5350000" />
+      <workItem from="1560663107328" duration="5564000" />
+      <workItem from="1560694692624" duration="2451000" />
+      <workItem from="1560749294986" duration="8702000" />
+      <workItem from="1560774705731" duration="2211000" />
+      <workItem from="1560778386342" duration="6726000" />
+      <workItem from="1560833631209" duration="6655000" />
+      <workItem from="1560911508454" duration="3841000" />
+      <workItem from="1560998195765" duration="2962000" />
+      <workItem from="1561001197779" duration="1254000" />
+      <workItem from="1563204563405" duration="3059000" />
+      <workItem from="1564108316989" duration="1228000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1560330175716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560330175716</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Setting up project">
+      <created>1560331574101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560331574101</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created Layout, Component for project">
+      <created>1560525314209</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560525314209</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created burger component">
+      <created>1560606351056</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560606351056</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ingredients are dynamic">
+      <created>1560666238393</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560666238394</updated>
+    </task>
+    <task id="LOCAL-00006" summary="build-controls added">
+      <created>1560670287080</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560670287080</updated>
+    </task>
+    <task id="LOCAL-00007" summary="user can add/remove ingredient using controls">
+      <created>1560697462438</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560697462438</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added total-price and order-button">
+      <created>1560757119195</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560757119195</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test commit">
+      <created>1560761069971</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1560761069971</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Toolbar,scrollbar div removed">
+      <created>1560779054895</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1560779054895</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Order Summary added">
+      <created>1560785500237</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1560785500237</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added Cancel, Continue Button to Summary">
+      <created>1560837020597</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1560837020597</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added Toolbar and Logo">
+      <created>1560843694523</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1560843694523</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added Navigation items">
+      <created>1560916034139</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1560916034140</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added SideDrawer">
+      <created>1561002272304</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561002272304</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57017000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17336309" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32991454" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32991454" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" x="11" y="2" width="1344" height="673" id="Terminal" order="10" weight="0.5623932" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17336309" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32991454" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32991454" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" x="11" y="2" width="1344" height="673" id="Terminal" order="10" weight="0.5623932" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Setting up project" />
+    <MESSAGE value="Created Layout, Component for project" />
+    <MESSAGE value="created burger component" />
+    <MESSAGE value="ingredients are dynamic" />
+    <MESSAGE value="build-controls added" />
+    <MESSAGE value="user can add/remove ingredient using controls" />
+    <MESSAGE value="added total-price and order-button" />
+    <MESSAGE value="test commit" />
+    <MESSAGE value="Toolbar,scrollbar div removed" />
+    <MESSAGE value="Order Summary added" />
+    <MESSAGE value="Added Cancel, Continue Button to Summary" />
+    <MESSAGE value="Added Toolbar and Logo" />
+    <MESSAGE value="Added Navigation items" />
+    <MESSAGE value="Added SideDrawer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added SideDrawer" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="457" column="68" selection-start-line="457" selection-start-column="68" selection-end-line="457" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hoc/Auxiliary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2260">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/Burger.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/Burger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5280" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="88" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="70" column="19" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Modal/Modal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Button/Button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Button/Button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layout/Layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Logo/Logo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Logo/Logo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Modal/Modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layout/Layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
